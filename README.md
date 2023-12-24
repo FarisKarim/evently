@@ -1,3 +1,3 @@
 DEMO: 
 
-https://evently-site.vercel.app
+https://evently-site.vercel.app/sign-up
